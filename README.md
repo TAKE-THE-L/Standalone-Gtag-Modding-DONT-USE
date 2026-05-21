@@ -1,2 +1,3 @@
 # Standalone-Gtag-Modding-DONT-USE
-DONT USE YET THIS IS AN EXPERIMENT! A repo of things for standalone gtag modding without APKs
+**_DONT USE YET THIS IS AN EXPERIMENT!!!_**<br />
+A toolkit for standalone gtag modding without APKs so its undetectable<br />
